@@ -1,0 +1,23 @@
+main:
+    chargement 1 + 2
+
+    Menu:
+        1. Cartes Adhérents
+            ->  1. Créer Carte
+                2. Supprimer Carte
+                3. Créditer des pts
+                4. Blocker/Déblocker Carte
+                5. Retour
+
+        2. Affichage
+            ->  1. Afficher 1 Adhérent
+                2. Afficher la liste de tous les Adhdérents
+                3. Afficher les entrées des activités
+                4. Retour
+            
+        3. Activités
+            -> Participation à une activité:
+                    1. Tour de Karting
+                    2. Partie Mini-Golf
+                    3. 1H de Tennis
+                    4. Parc Aquatique (limité 1 entrée max par jour)
